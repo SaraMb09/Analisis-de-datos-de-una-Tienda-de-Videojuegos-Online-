@@ -1,4 +1,4 @@
-# An-lisis-de-datos-de-una-Tienda-de-Videojuegos-Online-
+# Analisis-de-datos-de-una-Tienda-de-Videojuegos-Online-
 Este análisis exhaustivo del mercado de videojuegos nos permitió comprender cómo las ventas y calificaciones de usuarios varían en función de diferentes factores como plataforma, género, región y clasificaciones ESRB. 
 # Introducción
 El análisis de datos es una herramienta clave para extraer información valiosa y apoyar la toma de decisiones estratégicas. En este proyecto se analiza un conjunto de datos históricos de ventas de videojuegos de la tienda online Ice, con el objetivo de identificar patrones de comportamiento del mercado, tendencias por plataforma, género y región, así como el impacto de las reseñas de usuarios y críticos.
